@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**tkhobbes43/tkhobbes43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello, My Name is Tommy Lee 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Tommy Lee's Github Stats](https://github-readme-stats.vercel.app/api?username=tkhobbes43&show_icons=true&theme=gotham)
