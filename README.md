@@ -6,6 +6,9 @@
 
 <br />
 
+Passionate and curious full stack web developer, dreaming up ideas and doing my best to make them come true.
+
+- 🏠 Palatine, IL
 - 🌱 I’m currently learning Python, but also intend to learn C#, AWS, & Java
 - 📫 How to reach me: t.k.hobbes43@gmail.com, click on the above links to reach me at my socials.
 - 😄 Pronouns: he/him
